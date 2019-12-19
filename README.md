@@ -1,1 +1,1 @@
-# Web for store
+# Web store
